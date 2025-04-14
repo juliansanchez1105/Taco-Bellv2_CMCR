@@ -10,4 +10,6 @@ Things to fix / upgrade
 - Bigger belt / gear teeth
 - PD Board access
 - Design for repair/battery removal
+- Better tolerances
 - FLAMETHROWER
+    - Solenoid valve or servo actuator
